@@ -13,7 +13,7 @@ print(data_tuples[1])
 #data_tuples[1] = "Amicia"
 #data_tuples.append(1)
 
-#sets
+#sets (himpunan)
 data_sets = {1,9,5,2,0,1,9}
 print(data_sets)
 
